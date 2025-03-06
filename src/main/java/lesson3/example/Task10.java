@@ -1,4 +1,4 @@
-package lesson2.example;
+package lesson3.example;
 import java.util.Arrays;
 
 public class Task10 {

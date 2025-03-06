@@ -1,4 +1,4 @@
-package lesson2.example;
+package lesson3.example;
 
 public class Task5 {
 public boolean checkSumInRange (int a, int b){

@@ -1,4 +1,4 @@
-package lesson2.example;
+package lesson3.example;
 
 public class Task9 {
     public boolean isLeapYear(int year) {
